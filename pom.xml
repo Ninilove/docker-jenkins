@@ -103,7 +103,7 @@
       <snapshotRepository>
         <id>nexus</id>
         <name>Nfesta Technologies Snapshot Nexus Repository </name>
-        <url>http://54.87.79.46:7000/repository/dokcer-1/</url>
+        <url>http://54.159.90.86:7000/repository/jaune-project/</url>
       </snapshotRepository>
       
   </distributionManagement>

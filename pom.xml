@@ -103,7 +103,7 @@
       <snapshotRepository>
         <id>nexus</id>
         <name>Nfesta Technologies Snapshot Nexus Repository </name>
-        <url>http://54.159.90.86:7000/repository/jaune-project/</url>
+        <url>http://100.27.227.3:7000/repository/pipeline-project/</url>
       </snapshotRepository>
       
   </distributionManagement>
